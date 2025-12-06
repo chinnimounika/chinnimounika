@@ -31,4 +31,6 @@
   </a>
 </div>
 ---
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6933c999f33145208b93c55f?variant=dark" alt="roadmap.sh"/></a>
+
 <h2 align="left">✨ “Code. Create. Learn. Repeat.” ✨</h2>
